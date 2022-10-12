@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\CpGs1\CpGs1\bin\Debug\CpGs1.exe.config
+C:\Users\Lenovo\source\repos\CpGs1\CpGs1\bin\Debug\CpGs1.exe
+C:\Users\Lenovo\source\repos\CpGs1\CpGs1\bin\Debug\CpGs1.pdb
+C:\Users\Lenovo\source\repos\CpGs1\CpGs1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\source\repos\CpGs1\CpGs1\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Lenovo\source\repos\CpGs1\CpGs1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\source\repos\CpGs1\CpGs1\obj\Debug\CpGs1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\CpGs1\CpGs1\obj\Debug\CpGs1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\CpGs1\CpGs1\obj\Debug\CpGs1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CpGs1\CpGs1\obj\Debug\CpGs1.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\CpGs1\CpGs1\obj\Debug\CpGs1.exe
+C:\Users\Lenovo\source\repos\CpGs1\CpGs1\obj\Debug\CpGs1.pdb
