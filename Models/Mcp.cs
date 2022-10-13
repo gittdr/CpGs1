@@ -16,6 +16,7 @@ namespace CpGs1.Models
 
         public GeneradorDelMensaje GeneradorDelMensaje { get; set; }
         public ReceptorDelMensaje ReceptorDelMensaje { get; set; }
-        public InformacionDelMensaje InformacionDelMensaje { get; set; }
+        public List<InformacionDelMensaje> InformacionDelMensaje { get; set; }
+        public ComplementoCartaPorte ComplementoCartaPorte { get; set; }
     }
 }

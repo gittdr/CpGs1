@@ -10,15 +10,15 @@ namespace CpGs1.Models
     {
         public string BienesTransp { get; set; }
         public string Descripcion { get; set; }
-        public string Cantidad { get; set; }
+        public int Cantidad { get; set; }
         public string Unidad { get; set; }
         public string Dimensiones { get; set; }
         public string MaterialPeligroso { get; set; }
         public string CveMaterialPeligroso { get; set; }
         public string Embalaje { get; set; }
         public string DescripEmbalaje { get; set; }
-        public string PesoEnKg { get; set; }
-        public string ValorMercancia { get; set; }
+        public int PesoEnKg { get; set; }
+        public int ValorMercancia { get; set; }
         public string Moneda { get; set; }
         public string FraccionArracelaria { get; set; }
         public string UUIDComercioExt { get; set; }

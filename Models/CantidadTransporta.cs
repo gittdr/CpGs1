@@ -8,7 +8,7 @@ namespace CpGs1.Models
 {
     public class CantidadTransporta
     {
-        public string Cantidad { get; set; }
+        public int Cantidad { get; set; }
         public string IDOrigen { get; set; }
         public string IDDestino { get; set; }
     }

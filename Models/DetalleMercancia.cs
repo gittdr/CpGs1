@@ -9,9 +9,9 @@ namespace CpGs1.Models
     public class DetalleMercancia
     {
         public string UnidadPesoMerc { get; set; }
-        public string PesoBruto { get; set; }
-        public string PesoNeto { get; set; }
-        public string PesoTara { get; set; }
-        public string NumPiezas { get; set; }
+        public int PesoBruto { get; set; }
+        public int PesoNeto { get; set; }
+        public int PesoTara { get; set; }
+        public int NumPiezas { get; set; }
     }
 }
